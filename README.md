@@ -1,2 +1,2 @@
-# ue-playground
-A comprehensive &amp; useful collection of tech art resources for Unreal Engine. 
+# Angelo's Unreal Engine Playground
+A comprehensive &amp; useful collection of tech art resources for Unreal Engine. More documentation hopefully soon to follow...
